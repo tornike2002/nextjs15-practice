@@ -126,6 +126,7 @@ const invoices = [
     amount: 1000,
     status: 'paid',
     date: '2022-06-05',
+    
   },
 ];
 
